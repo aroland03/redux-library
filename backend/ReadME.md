@@ -17,6 +17,8 @@ Az alkalmazás egyetlen típust használ, a Book típust. A Book típus egy kön
 
 ### api/books
 
+Az [alábbi linken](https://api.postman.com/collections/25207031-65464538-c9de-4894-95db-7d0e379dcc65?access_key=PMAT-01H96G0D8JMAM34A2TFRZK1SW8) található egy Postman collection, amelyben megtalálhatóak a következő végpontok:
+
 #### POST /api/books
 
 Új könyv létrehozása. A könyv adatait a request body-ban kell megadni, a következő formátumban:
